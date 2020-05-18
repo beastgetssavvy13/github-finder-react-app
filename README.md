@@ -2,7 +2,7 @@
 
 <h3>Pixelated-coder-finder-app</h3>
 
-Github Finder using Github API :man_technologist:
+Github Finder using Github API :technologist:
 | Visit  Deployed  App on Netlify<br><br>
 
 Link: https://kavish-pandit-github-finder.netlify.app/
@@ -24,7 +24,9 @@ Only pure JavaScript, no other library used.<br>
 VS STUDIO | POSTMAN | MONGODBATLAS | NETLIFY <br>
  
 ## Preview Interface :
-Provides 5 prominent repos with hiring status and following clout as well.
+:white_check_mark: Provides 5 prominent repos <br>
+:white_check_mark: Hiring status <br>
+:white_check_mark: Following clout as well as Followers
 
 <img src="https://github.com/beastgetssavvy13/github-finder-react-app/blob/master/gh-images/2.JPG"/>
 <br>
