@@ -32,6 +32,8 @@ VS STUDIO | POSTMAN | MONGODBATLAS | NETLIFY <br>
 
 
 <img src="https://github.com/beastgetssavvy13/github-finder-react-app/blob/master/gh-images/2.JPG"/>
+
+
 <br>
 
 ## Usage
