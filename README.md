@@ -5,7 +5,7 @@
 Github Finder using Github API :technologist:
 | Visit  Deployed  App on Netlify<br><br>
 
-Link: https://kavish-pandit-github-finder.netlify.app/
+:link: https://kavish-pandit-github-finder.netlify.app/
 
 # <h2>GitHub Finder :mag: </h2>
 React JS Application.Fully Functional app which uses Hooks. This App Facilitates users to search users profile by their github ID. 
@@ -25,7 +25,9 @@ VS STUDIO | POSTMAN | MONGODBATLAS | NETLIFY <br>
  
 ## Preview Interface :
 :white_check_mark: Provides 5 prominent repos <br>
+
 :white_check_mark: Hiring status <br>
+
 :white_check_mark: Following clout as well as Followers
 
 <img src="https://github.com/beastgetssavvy13/github-finder-react-app/blob/master/gh-images/2.JPG"/>
