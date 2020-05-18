@@ -29,8 +29,7 @@ VS STUDIO | POSTMAN | MONGODBATLAS | NETLIFY <br>
 :white_check_mark: Hiring status <br>
 
 :white_check_mark: Following clout as well as Followers<br>
-
-
+<br>
 <img src="https://github.com/beastgetssavvy13/github-finder-react-app/blob/master/gh-images/2.JPG"/>
 
 
