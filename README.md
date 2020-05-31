@@ -1,4 +1,6 @@
-><i> Created by Pixelated Coder :man_in_tuxedo:	</i>
+## The Pixelated Coder  :man_technologist:
+
+> Contributor : Kavish Pandit 
 
 <h3>Pixelated-coder-finder-app</h3>
 
